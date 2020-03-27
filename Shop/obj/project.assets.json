@@ -6315,11 +6315,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Shop\\Shop\\Shop.csproj",
+      "projectUniqueName": "C:\\Users\\sonek\\Documents\\teste\\jwt\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "C:\\dev\\Shop\\Shop\\Shop.csproj",
+      "projectPath": "C:\\Users\\sonek\\Documents\\teste\\jwt\\Shop\\Shop.csproj",
       "packagesPath": "C:\\Users\\sonek\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Shop\\Shop\\obj\\",
+      "outputPath": "C:\\Users\\sonek\\Documents\\teste\\jwt\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
